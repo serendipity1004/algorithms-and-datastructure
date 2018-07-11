@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-and-datastructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serendipity1004/algorithms-and-datastructure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serendipity1004/algorithms-and-datastructure/issues"
+  },
+  "homepage": "https://github.com/serendipity1004/algorithms-and-datastructure#readme",
+  "dependencies": {
+    "jest": "^23.4.0"
+  }
+}
